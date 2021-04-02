@@ -11,8 +11,6 @@
       📧   email  📧 : root@lckyn.com
       
 
-Lat Phrao, Bangkok 10230 Thailand. (+66) 83-028-2014. root@lckyn.com
-
 ### 📖📖 Education 📖📖
 
 ___
