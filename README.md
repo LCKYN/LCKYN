@@ -7,7 +7,7 @@
       📞    tel   📞 : (+66)83-028-2014
       📧   email  📧 : root@lckyn.com
 
-Lat Phrao, Bangkok 10230 Thailand. (+66)83-028-2014. root@lckyn.com
+Lat Phrao, Bangkok 10230 Thailand. (+66) 83-028-2014. root@lckyn.com
 
 ### 📖📖 Education 📖📖
 
@@ -23,7 +23,7 @@ ___
 
 * **iCONEXT CO., LTD.** — Bangkok, TH	 
 
-  ​	**Software Engineer** 2 month(internship)
+  ​	**Software Engineer** 2 month (internship)
 
 ### 🏆🏆 Accomplishments 🏆🏆
 
