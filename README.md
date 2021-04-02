@@ -45,6 +45,7 @@ ___
 ___
 
 * Variable Selection using AUC optimization  (Senior Project)
+* Health Data Science Hackathon by BDMS (Top 20 Reward 10,000 THB ~ 300 USD)
 
 ### 📊📊 github stats 📊📊
 
