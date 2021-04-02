@@ -1,5 +1,17 @@
 # 👋 Hi, I’m @LCKYN (Pawarit Thareechan)
 - 👀 I’m interested in data Science, Data Visualization, Data Analysis
+
+<img align="left" alt="Visual Studio Code" height="30px" src="icon/visual-studio-code.png" />
+<img align="left" alt="R" height="30px" src="icon/r.png"/>
+<img align="left" alt="Python" height="30px" src="icon/python.png" />
+<img align="left" alt="Jupyter Notebook" height="30px" src="icon/jupyter-notebook.png" />
+<img align="left" alt="Git" height="30px" src="icon/git.png" />
+<img align="left" alt="regex" height="30px" src="icon/regex.png" />
+<img align="left" alt="Terminal" height="30px" src="icon/terminal.png" />
+<img align="left" alt="latex" height="30px" src="icon/latex.png" />
+<img align="left" alt="markdown" height="30px" src="icon/markdown.png" />
+<br />
+
 - 🌱 I’m currently learning Node.js, Docker, Tensorflow (python)
 <!-- - 💞️ I’m looking to collaborate on ... !-->
 - 📫 How to reach me 
