@@ -10,7 +10,7 @@
 <img align="left" alt="Terminal" height="30px" src="icon/terminal.png" />
 <img align="left" alt="latex" height="30px" src="icon/latex.png" />
 <img align="left" alt="markdown" height="30px" src="icon/markdown.png" />
-<br />
+<br /><br />
 
 - 🌱 I’m currently learning Node.js, Docker, Tensorflow (python)
 <!-- - 💞️ I’m looking to collaborate on ... !-->
