@@ -43,6 +43,8 @@ ___
 
 ___
 
+* Cyber Security Challenge by KPMG
+  * Participation
 * Variable Selection using AUC optimization 
   * Senior Project (BE : 2019)
 * Health Data Science Hackathon by BDMS 
