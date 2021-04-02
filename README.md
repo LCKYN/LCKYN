@@ -44,9 +44,8 @@ ___
 ___
 
 * Variable Selection using AUC optimization 
-  * Senior Project
+  * Senior Project (BE : 2019)
 * Health Data Science Hackathon by BDMS 
-  * Top 20 
   * Reward 10,000 THB (Approximate 300 USD)
 
 ### 📊📊 github stats 📊📊
