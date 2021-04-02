@@ -43,11 +43,11 @@ ___
 
 ___
 
-* Cyber Security Challenge by KPMG
+* Cyber Security Challenge (2018) by KPMG
   * Participation
-* Variable Selection using AUC optimization 
-  * Senior Project (BE : 2019)
-* Health Data Science Hackathon by BDMS 
+* Variable Selection using AUC optimization (2019)
+  * Senior Project 
+* Health Data Science Hackathon (2021) by BDMS 
   * Reward 10,000 THB (Approximate 300 USD)
 
 ### 📊📊 github stats 📊📊
