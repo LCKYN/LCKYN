@@ -3,15 +3,20 @@
 - 🌱 I’m currently learning Node.js, Docker, Tensorflow (python)
 <!-- - 💞️ I’m looking to collaborate on ... !-->
 - 📫 How to reach me 
+
       🌏 location 🌏 : Lat Phrao, Bangkok 10230 TH
+      
       📞    tel   📞 : (+66)83-028-2014
+      
       📧   email  📧 : root@lckyn.com
+      
 
 Lat Phrao, Bangkok 10230 Thailand. (+66) 83-028-2014. root@lckyn.com
 
 ### 📖📖 Education 📖📖
 
 ___
+
 
 * KMUTNB - Bangkok, TH | BE in Computer
 
