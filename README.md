@@ -37,15 +37,17 @@ ___
 ___
 
 * **iCONEXT CO., LTD.** — Bangkok, TH	 
-
-  ​	**Software Engineer** 2 month (internship)
+  * **Software Engineer** 2 month (internship)
 
 ### 🏆🏆 Accomplishments 🏆🏆
 
 ___
 
-* Variable Selection using AUC optimization  (Senior Project)
-* Health Data Science Hackathon by BDMS (Top 20 Reward 10,000 THB ~ 300 USD)
+* Variable Selection using AUC optimization 
+  * Senior Project
+* Health Data Science Hackathon by BDMS 
+  * Top 20 
+  * Reward 10,000 THB (Approximate 300 USD)
 
 ### 📊📊 github stats 📊📊
 
