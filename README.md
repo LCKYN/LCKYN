@@ -22,6 +22,7 @@
       
       📧   email  📧 : root@lckyn.com
       
+      stackoverflow   : https://stackoverflow.com/users/11419249/lckyn
 
 ### 📖📖 Education 📖📖
 
