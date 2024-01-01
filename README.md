@@ -55,6 +55,8 @@ ___
 
 ___
 
+![<img src="https://github-readme-stats.vercel.app/api?username=lckyn&show_icons=true&hide_border=true" />](https://raw.githubusercontent.com/LCKYN/The-LCKYN-Milestones/main/The%20LCKYN%20Milestones%20Dark%20Mode.png)
+
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lckyn&show_icons=true&hide_border=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lckyn&hide_border=true)
