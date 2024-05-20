@@ -20,7 +20,7 @@
       
       📞    tel   📞 : (+66)83-028-2014
       
-      📧   email  📧 : root@lckyn.com
+      📧   email  📧 : t.pawarit@lckyn.com
       
       stackoverflow   : https://stackoverflow.com/users/11419249/lckyn
 
