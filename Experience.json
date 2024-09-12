@@ -4,5 +4,5 @@
     { "name": "Project Gamma", "language": ["typescript"], "tools": ["react", "node.js"], "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris." },
     { "name": "Project Delta", "language": ["python"], "tools": ["scikit-learn", "pandas"], "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum." },
     { "name": "Project Epsilon", "language": ["javascript"], "tools": ["react", "node.js"], "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia." },
-    { "name": "Project Zeta", "language": ["python"], "tools": ["pytorch", "pandas"], "description": "Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus." },
+    { "name": "Project Zeta", "language": ["python"], "tools": ["pytorch", "pandas"], "description": "Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus." }
 ]
