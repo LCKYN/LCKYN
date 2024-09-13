@@ -2,43 +2,43 @@
     {
         "name": "Car Price Prediction Model",
         "language": ["Python"],
-        "tools": ["scikit-learn", "pandas"],
+        "tools": ["scikit-learn", "pandas", "docker"],
         "description": "Developed a robust regression model to accurately predict car auction prices based on factors like brand, model, manufacturing year, and more, significantly enhancing price estimation processes."
     },
     {
         "name": "Advanced Steganography Pipeline",
         "language": ["Python"],
-        "tools": ["OpenCV", "NumPy"],
+        "tools": ["OpenCV", "NumPy", "docker"],
         "description": "Engineered a sophisticated pipeline utilizing OpenCV for image and audio processing, implementing advanced steganography techniques to securely conceal user identification within multimedia content."
     },
     {
         "name": "Wav-to-Talking Head Animation",
         "language": ["Python"],
-        "tools": ["TensorFlow", "Generative Adversarial Networks (GANs)"],
+        "tools": ["TensorFlow", "Generative Adversarial Networks (GANs)", "docker"],
         "description": "Designed and implemented a cutting-edge neural network model to generate realistic talking head animations from audio input, leveraging GANs to enhance animation quality."
     },
     {
         "name": "Cardboard QR Code Classifier",
         "language": ["Python"],
-        "tools": ["TensorFlow", "EfficientNet"],
+        "tools": ["TensorFlow", "EfficientNet", "docker"],
         "description": "Built and trained an efficient deep learning model for accurate classification of QR code images on cardboard materials, improving scanning efficiency and reliability."
     },
     {
         "name": "Symptom Clustering NLP Model",
         "language": ["Python"],
-        "tools": ["spaCy", "scikit-learn"],
+        "tools": ["spaCy", "scikit-learn", "docker"],
         "description": "Developed an advanced NLP model to classify and cluster medical symptoms from textual data, facilitating more accurate and efficient medical diagnoses."
     },
     {
         "name": "Employee Performance Optimization Platform",
         "language": ["Python"],
-        "tools": ["pandas", "NumPy", "matplotlib"],
+        "tools": ["pandas", "NumPy", "matplotlib", "docker"],
         "description": "Developed comprehensive end-to-end solutions to optimize employee performance and feedback processes, significantly enhancing productivity and fostering professional growth."
     },
     {
         "name": "End-to-End Data Lakehouse Implementation",
         "language": ["Python", "SQL"],
-        "tools": ["Apache Spark", "Apache Superset", "Apache Iceberg", "MinIO"],
+        "tools": ["Apache Spark", "Apache Superset", "Apache Iceberg", "MinIO", "docker"],
         "description": "Led the successful implementation of a complete data lakehouse solution, utilizing cutting-edge technologies for efficient data storage, processing, and visualization, thereby streamlining data analytics workflows."
     }
 ]
