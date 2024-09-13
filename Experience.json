@@ -40,5 +40,29 @@
         "language": ["Python", "SQL"],
         "tools": ["Apache Spark", "Apache Superset", "Apache Iceberg", "MinIO", "docker"],
         "description": "Led the successful implementation of a complete data lakehouse solution, utilizing cutting-edge technologies for efficient data storage, processing, and visualization, thereby streamlining data analytics workflows."
+    },
+    {
+        "name": "Discord Bot for Fifatargrean Channel",
+        "language": ["Python", "Flask"],
+        "tools": ["Discord API", "docker"],
+        "description": "Developed a Discord bot to handle 1k users in the Fifatargrean channel, automatically banning scammers and assigning contributor roles to active community members."
+    },
+    {
+        "name": "Fifatargrean Media Share Platform",
+        "language": ["Python", "Flask"],
+        "tools": ["Discord API", "PostgreSQL", "docker"],
+        "description": "Created a web platform where members can share videos, and streamers can host watch parties, using Python Flask and Discord API with PostgreSQL for backend management."
+    },
+    {
+        "name": "LCKYN Website",
+        "language": ["Next.js", "React", "TypeScript"],
+        "tools": ["Next.js", "React", "TypeScript"],
+        "description": "Developed a website for LCKYN to introduce users to its goals and outlook using modern web technologies like Next.js and React with TypeScript."
+    },
+    {
+        "name": "Own ChatGPT Application",
+        "language": ["Next.js", "React", "TypeScript"],
+        "tools": ["OpenAI API", "Claude API"],
+        "description": "Developed an affordable chatbot platform where users can select and switch between OpenAI and Claude models, providing a cheaper alternative to typical LLM subscriptions."
     }
 ]
