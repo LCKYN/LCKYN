@@ -1,44 +1,44 @@
 [
-    { 
-        "name": "Car Price Project", 
-        "language": ["python"], 
-        "tools": ["scikit-learn", "pandas"], 
-        "description": "Developed a powerful regression model in Python using scikit-learn to accurately predict car auction prices based on car brands, models, manufacturing years, and other relevant factors, delivering valuable insights for market analysis." 
+    {
+        "name": "Car Price Prediction Model",
+        "language": ["Python"],
+        "tools": ["scikit-learn", "pandas"],
+        "description": "Developed a robust regression model to accurately predict car auction prices based on factors like brand, model, manufacturing year, and more, significantly enhancing price estimation processes."
     },
-    { 
-        "name": "Steganography", 
-        "language": ["python"], 
-        "tools": ["opencv"], 
-        "description": "Engineered an innovative pipeline in Python utilizing OpenCV for advanced image processing, implementing cutting-edge steganography techniques to securely conceal user identification in images, audio, and backgrounds." 
+    {
+        "name": "Advanced Steganography Pipeline",
+        "language": ["Python"],
+        "tools": ["OpenCV", "NumPy"],
+        "description": "Engineered a sophisticated pipeline utilizing OpenCV for image and audio processing, implementing advanced steganography techniques to securely conceal user identification within multimedia content."
     },
-    { 
-        "name": "Wav 2 Talking Head Cartoon", 
-        "language": ["python"], 
-        "tools": ["tensorflow", "gans"], 
-        "description": "Designed and implemented an advanced neural network model using TensorFlow and Generative Adversarial Networks (GANs) to create lifelike talking head animations from spoken voices, enhancing interactive experiences." 
+    {
+        "name": "Wav-to-Talking Head Animation",
+        "language": ["Python"],
+        "tools": ["TensorFlow", "Generative Adversarial Networks (GANs)"],
+        "description": "Designed and implemented a cutting-edge neural network model to generate realistic talking head animations from audio input, leveraging GANs to enhance animation quality."
     },
-    { 
-        "name": "Cardboard QR Code Classification", 
-        "language": ["python"], 
-        "tools": ["tensorflow", "efficientnet"], 
-        "description": "Built and trained a highly efficient deep learning model using TensorFlow and EfficientNet to achieve rapid and precise classification of QR code images, streamlining automated processes." 
+    {
+        "name": "Cardboard QR Code Classifier",
+        "language": ["Python"],
+        "tools": ["TensorFlow", "EfficientNet"],
+        "description": "Built and trained an efficient deep learning model for accurate classification of QR code images on cardboard materials, improving scanning efficiency and reliability."
     },
-    { 
-        "name": "Symptom Clustering", 
-        "language": ["python"], 
-        "tools": ["spacy", "scikit-learn"], 
-        "description": "Developed an advanced NLP model in Python using spaCy and scikit-learn to classify medical symptoms from textual data, aiding healthcare professionals in diagnosing conditions more effectively." 
+    {
+        "name": "Symptom Clustering NLP Model",
+        "language": ["Python"],
+        "tools": ["spaCy", "scikit-learn"],
+        "description": "Developed an advanced NLP model to classify and cluster medical symptoms from textual data, facilitating more accurate and efficient medical diagnoses."
     },
-    { 
-        "name": "Optimized Employee Performance", 
-        "language": ["python"], 
-        "tools": ["pandas"], 
-        "description": "Delivered end-to-end Python solutions to optimize employee performance and feedback processes, empowering organizations to enhance productivity and facilitate employee growth." 
+    {
+        "name": "Employee Performance Optimization Platform",
+        "language": ["Python"],
+        "tools": ["pandas", "NumPy", "matplotlib"],
+        "description": "Developed comprehensive end-to-end solutions to optimize employee performance and feedback processes, significantly enhancing productivity and fostering professional growth."
     },
-    { 
-        "name": "End-to-End Data Lakehouse Project", 
-        "language": ["python"], 
-        "tools": ["apache spark", "apache superset", "apache iceberg", "min.io"], 
-        "description": "Led the successful implementation of an end-to-end data lakehouse architecture using Apache Spark, Apache Superset, Apache Iceberg, and Min.io, ensuring efficient data storage, processing, and visualization for business-critical insights." 
+    {
+        "name": "End-to-End Data Lakehouse Implementation",
+        "language": ["Python", "SQL"],
+        "tools": ["Apache Spark", "Apache Superset", "Apache Iceberg", "MinIO"],
+        "description": "Led the successful implementation of a complete data lakehouse solution, utilizing cutting-edge technologies for efficient data storage, processing, and visualization, thereby streamlining data analytics workflows."
     }
 ]
