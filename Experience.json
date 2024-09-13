@@ -1,28 +1,44 @@
 [
-    { "name": "Project Alpha", "language": ["python"], "tools": ["pytorch", "pandas"], "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-    { "name": "Project Beta", "language": ["javascript"], "tools": ["react", "node.js"], "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
-    { "name": "Project Gamma", "language": ["typescript"], "tools": ["react", "node.js"], "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris." },
-    { "name": "Project Delta", "language": ["python"], "tools": ["scikit-learn", "pandas"], "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum." },
-    { "name": "Project Epsilon", "language": ["javascript"], "tools": ["react", "node.js"], "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia." },
-    { "name": "Project Alpha", "language": ["python"], "tools": ["pytorch", "pandas"], "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-    { "name": "Project Beta", "language": ["javascript"], "tools": ["react", "node.js"], "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
-    { "name": "Project Gamma", "language": ["typescript"], "tools": ["react", "node.js"], "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris." },
-    { "name": "Project Delta", "language": ["python"], "tools": ["scikit-learn", "pandas"], "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum." },
-    { "name": "Project Epsilon", "language": ["javascript"], "tools": ["react", "node.js"], "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia." },
-    { "name": "Project Alpha", "language": ["python"], "tools": ["pytorch", "pandas"], "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-    { "name": "Project Beta", "language": ["javascript"], "tools": ["react", "node.js"], "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
-    { "name": "Project Gamma", "language": ["typescript"], "tools": ["react", "node.js"], "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris." },
-    { "name": "Project Delta", "language": ["python"], "tools": ["scikit-learn", "pandas"], "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum." },
-    { "name": "Project Epsilon", "language": ["javascript"], "tools": ["react", "node.js"], "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia." },
-    { "name": "Project Alpha", "language": ["python"], "tools": ["pytorch", "pandas"], "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-    { "name": "Project Beta", "language": ["javascript"], "tools": ["react", "node.js"], "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
-    { "name": "Project Gamma", "language": ["typescript"], "tools": ["react", "node.js"], "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris." },
-    { "name": "Project Delta", "language": ["python"], "tools": ["scikit-learn", "pandas"], "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum." },
-    { "name": "Project Epsilon", "language": ["javascript"], "tools": ["react", "node.js"], "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia." },
-    { "name": "Project Alpha", "language": ["python"], "tools": ["pytorch", "pandas"], "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-    { "name": "Project Beta", "language": ["javascript"], "tools": ["react", "node.js"], "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
-    { "name": "Project Gamma", "language": ["typescript"], "tools": ["react", "node.js"], "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris." },
-    { "name": "Project Delta", "language": ["python"], "tools": ["scikit-learn", "pandas"], "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum." },
-    { "name": "Project Epsilon", "language": ["javascript"], "tools": ["react", "node.js"], "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia." },
-    { "name": "Project Zeta", "language": ["python"], "tools": ["pytorch", "pandas"], "description": "Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus." }
+    { 
+        "name": "Car Price Project", 
+        "language": ["python"], 
+        "tools": ["scikit-learn", "pandas"], 
+        "description": "Developed a powerful regression model in Python using scikit-learn to accurately predict car auction prices based on car brands, models, manufacturing years, and other relevant factors, delivering valuable insights for market analysis." 
+    },
+    { 
+        "name": "Steganography", 
+        "language": ["python"], 
+        "tools": ["opencv"], 
+        "description": "Engineered an innovative pipeline in Python utilizing OpenCV for advanced image processing, implementing cutting-edge steganography techniques to securely conceal user identification in images, audio, and backgrounds." 
+    },
+    { 
+        "name": "Wav 2 Talking Head Cartoon", 
+        "language": ["python"], 
+        "tools": ["tensorflow", "gans"], 
+        "description": "Designed and implemented an advanced neural network model using TensorFlow and Generative Adversarial Networks (GANs) to create lifelike talking head animations from spoken voices, enhancing interactive experiences." 
+    },
+    { 
+        "name": "Cardboard QR Code Classification", 
+        "language": ["python"], 
+        "tools": ["tensorflow", "efficientnet"], 
+        "description": "Built and trained a highly efficient deep learning model using TensorFlow and EfficientNet to achieve rapid and precise classification of QR code images, streamlining automated processes." 
+    },
+    { 
+        "name": "Symptom Clustering", 
+        "language": ["python"], 
+        "tools": ["spacy", "scikit-learn"], 
+        "description": "Developed an advanced NLP model in Python using spaCy and scikit-learn to classify medical symptoms from textual data, aiding healthcare professionals in diagnosing conditions more effectively." 
+    },
+    { 
+        "name": "Optimized Employee Performance", 
+        "language": ["python"], 
+        "tools": ["pandas"], 
+        "description": "Delivered end-to-end Python solutions to optimize employee performance and feedback processes, empowering organizations to enhance productivity and facilitate employee growth." 
+    },
+    { 
+        "name": "End-to-End Data Lakehouse Project", 
+        "language": ["python"], 
+        "tools": ["apache spark", "apache superset", "apache iceberg", "min.io"], 
+        "description": "Led the successful implementation of an end-to-end data lakehouse architecture using Apache Spark, Apache Superset, Apache Iceberg, and Min.io, ensuring efficient data storage, processing, and visualization for business-critical insights." 
+    }
 ]
