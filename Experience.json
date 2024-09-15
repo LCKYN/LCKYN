@@ -6,18 +6,6 @@
         "description": "Developed a robust regression model to accurately predict car auction prices based on factors like brand, model, manufacturing year, and more, significantly enhancing price estimation processes."
     },
     {
-        "name": "Advanced Steganography Pipeline",
-        "language": ["Python"],
-        "tools": ["docker", "OpenCV", "NumPy"],
-        "description": "Engineered a sophisticated pipeline utilizing OpenCV for image and audio processing, implementing advanced steganography techniques to securely conceal user identification within multimedia content."
-    },
-    {
-        "name": "Wav-to-Talking Head Animation",
-        "language": ["Python"],
-        "tools": ["docker", "TensorFlow", "Generative Adversarial Networks (GANs)"],
-        "description": "Designed and implemented a cutting-edge neural network model to generate realistic talking head animations from audio input, leveraging GANs to enhance animation quality."
-    },
-    {
         "name": "Cardboard QR Code Classifier",
         "language": ["Python"],
         "tools": ["docker", "TensorFlow", "EfficientNet"],
@@ -40,12 +28,6 @@
         "language": ["Python", "SQL"],
         "tools": ["docker", "Apache Spark", "Apache Superset", "Apache Iceberg", "MinIO"],
         "description": "Led the successful implementation of a complete data lakehouse solution, utilizing cutting-edge technologies for efficient data storage, processing, and visualization, thereby streamlining data analytics workflows."
-    },
-    {
-        "name": "Discord Bot for Fifatargrean Channel",
-        "language": ["Python", "SQL"],
-        "tools": ["docker", "Discord API", "Flask"],
-        "description": "Developed a Discord bot to handle 1k users in the Fifatargrean channel, automatically banning scammers and assigning contributor roles to active community members."
     },
     {
         "name": "Fifatargrean Media Share Platform",
