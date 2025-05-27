@@ -21,8 +21,6 @@
       📞    tel   📞 : (+66)83-028-2014
       
       📧   email  📧 : t.pawarit@lckyn.com
-      
-      stackoverflow   : https://stackoverflow.com/users/11419249/lckyn
 
 ### 📖📖 Education 📖📖
 
