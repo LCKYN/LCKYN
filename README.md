@@ -55,6 +55,7 @@ ___
 
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lckyn&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lckyn&show_icons=true&hide_border=true&theme=dracula" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lckyn&hide_border=true&theme=dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lckyn&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
