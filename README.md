@@ -1,61 +1,40 @@
-# 👋 Hi, I’m @LCKYN (Pawarit Thareechan)
-- 👀 I’m interested in data Science, Data Visualization, Data Analysis
+# 👋 Hi, I'm Pawarit Thareechan (@LCKYN)
 
-<img align="left" alt="Visual Studio Code" height="30px" src="icon/visual-studio-code.png" />
-<img align="left" alt="R" height="30px" src="icon/r.png"/>
+**Data Scientist | Machine Learning Engineer**
+
+🎯 Focused on: Data Science • Machine Learning • Data Engineering • MLOps
+
+## 🛠️ Tech Stack
 <img align="left" alt="Python" height="30px" src="icon/python.png" />
 <img align="left" alt="Jupyter Notebook" height="30px" src="icon/jupyter-notebook.png" />
+<img align="left" alt="R" height="30px" src="icon/r.png"/>
+<img align="left" alt="Visual Studio Code" height="30px" src="icon/visual-studio-code.png" />
 <img align="left" alt="Git" height="30px" src="icon/git.png" />
-<img align="left" alt="regex" height="30px" src="icon/regex.png" />
 <img align="left" alt="Terminal" height="30px" src="icon/terminal.png" />
-<img align="left" alt="latex" height="30px" src="icon/latex.png" />
-<img align="left" alt="markdown" height="30px" src="icon/markdown.png" />
+
 <br /><br />
 
-- 🌱 I’m currently learning Node.js, Docker, Tensorflow (python)
-<!-- - 💞️ I’m looking to collaborate on ... !-->
-- 📫 How to reach me 
+🌱 Currently exploring: **LLMs & RAG Systems** • **MLOps** • **Real-time ML Pipelines**
 
-      🌏 location 🌏 : Lat Phrao, Bangkok 10230 TH
-      
-      📞    tel   📞 : (+66)83-028-2014
-      
-      📧   email  📧 : t.pawarit@lckyn.com
+## 🎓 Background
+* **BE Computer Engineering** - KMUTNB, Bangkok
+* **ME Computer Engineering** - KMUTNB, Bangkok *(In Progress)*
 
-### 📖📖 Education 📖📖
+## 💼 Experience
+* **Data Scientist** @ Avalant Co. Ltd. *(2023 - Present)*
+* **Machine Learning Engineer** @ Looloo Technology *(2021 - 2023)*
 
-___
+## 🏆 Achievements
+* **Winner** - Health Data Science Hackathon by BDMS (2021) - 10,000 THB Prize
+* **12th Place** - Cyber Security Challenge by KPMG (2018)
 
+## 📫 Connect
+📧 t.pawarit@lckyn.com | 🌐 [LinkedIn](https://linkedin.lckyn.com) | 📄 [Resume](https://resume.lckyn.com)
 
-* KMUTNB - Bangkok, TH | BE in Computer
+---
 
-* KMUTNB - Bangkok, TH | ME in Computer (Studying)
+## 📊 GitHub Stats
 
-### 💭💭 Experience 💭💭
-
-___
-
-* **iCONEXT CO., LTD.** — Bangkok, TH	 
-  * **Software Engineer** 2 month (internship)
-
-### 🏆🏆 Accomplishments 🏆🏆
-
-___
-
-* Cyber Security Challenge (2018) by KPMG
-  * Participation
-* Variable Selection using AUC optimization (2019)
-  * Senior Project 
-* Health Data Science Hackathon (2021) by BDMS 
-  * Reward 10,000 THB (Approximate 300 USD)
-
-### 📊📊 github stats 📊📊
-
-___
-
-
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lckyn&show_icons=true&hide_border=true&theme=dracula" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lckyn&show_icons=true&hide_border=true&theme=dracula" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lckyn&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
