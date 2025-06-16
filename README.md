@@ -18,7 +18,6 @@
 
 ## 🎓 Background
 * **BE Computer Engineering** - KMUTNB, Bangkok
-* **ME Computer Engineering** - KMUTNB, Bangkok *(In Progress)*
 
 ## 💼 Experience
 * **Data Scientist** @ Avalant Co. Ltd. *(2023 - Present)*
