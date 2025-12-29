@@ -1,65 +1,18 @@
-# 👋 Hi, I'm Pawarit Thareechan (@LCKYN)
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>I am a **Data Scientist** and **Machine Learning Engineer** with over 4 years of experience in building end-to-end AI solutions. My expertise lies in transforming raw data into actionable insights and deploying scalable ML models.<br><br>- 🎯 **Current Focus:** Developing LLM-based applications and RAG systems to enhance data accessibility.<br>- 🚀 **Specialization:** Machine Learning, Data Engineering, and MLOps.<br>- 💡 **Goal:** To bridge the gap between complex AI research and real-world business value.<br>
 
-### **Data Scientist | Machine Learning Engineer**
 
-🎯 **Focus Areas:** Data Science • Machine Learning • Data Engineering • MLOps
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawarit-thareechan-60b110151) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: t.pawarit@lckyn.com) 
 
----
-
-## 🛠️ Tech Stack & Tools
-
-นี่คือ Tools และภาษาที่ผมถนัดครับ:
-
-<p align="left">
-  &nbsp;
-  <img src="cdn.jsdelivr.net" alt="Python" width="40" height="40"/>
-  <img src="cdn.jsdelivr.net" alt="Jupyter" width="40" height="40"/>
-  <img src="cdn.jsdelivr.net" alt="R" width="40" height="40"/>
-  <img src="cdn.jsdelivr.net" alt="PostgreSQL" width="40" height="40"/>
-  <img src="cdn.jsdelivr.net" alt="Docker" width="40" height="40"/>
-  <img src="cdn.jsdelivr.net" alt="Git" width="40" height="40"/>
-  <img src="cdn.jsdelivr.net" alt="VS Code" width="40" height="40"/>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LCKYN&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LCKYN&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LCKYN&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=LCKYN&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌱 Currently Exploring
-
-ผมกำลังสนใจและศึกษาเรื่องเหล่านี้เพิ่มเติมครับ:
-*   **LLMs & RAG Systems**
-*   **MLOps Best Practices**
-*   **Real-time ML Pipelines**
-
----
-
-## 🎓 Education
-
-*   **B.Eng. Computer Engineering** - King Mongkut's University of Technology North Bangkok (KMUTNB), Thailand
-
----
-
-## 💼 Work Experience
-
-*   **Data Scientist** @ Avalant Co. Ltd. *(2023 - Present)*
-*   **Machine Learning Engineer** @ Looloo Technology *(2021 - 2023)*
-
----
-
-## 🏆 Achievements & Awards
-
-*   **Winner** - Health Data Science Hackathon by BDMS (2021)
-*   **12th Place** - Cyber Security Challenge by KPMG (2018)
-
----
-
-## 📫 Connect with Me
-
-📧 t.pawarit@lckyn.com | 🌐 [LinkedIn Profile](https://linkedin.lckyn.com) | 📄 [My Resume](https://resume.lckyn.com)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="nirzak-streak-stats.vercel.app" alt="GitHub Streak" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
