@@ -1,37 +1,65 @@
 # 👋 Hi, I'm Pawarit Thareechan (@LCKYN)
 
-**Data Scientist | Machine Learning Engineer**
+### **Data Scientist | Machine Learning Engineer**
 
-🎯 Focused on: Data Science • Machine Learning • Data Engineering • MLOps
+🎯 **Focus Areas:** Data Science • Machine Learning • Data Engineering • MLOps
 
-## 🛠️ Tech Stack
-<img align="left" alt="Python" height="30px" src="icon/python.png" />
-<img align="left" alt="Jupyter Notebook" height="30px" src="icon/jupyter-notebook.png" />
-<img align="left" alt="R" height="30px" src="icon/r.png"/>
-<img align="left" alt="Visual Studio Code" height="30px" src="icon/visual-studio-code.png" />
-<img align="left" alt="Git" height="30px" src="icon/git.png" />
-<img align="left" alt="Terminal" height="30px" src="icon/terminal.png" />
+---
 
-<br /><br />
+## 🛠️ Tech Stack & Tools
 
-🌱 Currently exploring: **LLMs & RAG Systems** • **MLOps** • **Real-time ML Pipelines**
+นี่คือ Tools และภาษาที่ผมถนัดครับ:
 
-## 🎓 Background
-* **BE Computer Engineering** - KMUTNB, Bangkok
+<p align="left">
+  &nbsp;
+  <img src="cdn.jsdelivr.net" alt="Python" width="40" height="40"/>
+  <img src="cdn.jsdelivr.net" alt="Jupyter" width="40" height="40"/>
+  <img src="cdn.jsdelivr.net" alt="R" width="40" height="40"/>
+  <img src="cdn.jsdelivr.net" alt="PostgreSQL" width="40" height="40"/>
+  <img src="cdn.jsdelivr.net" alt="Docker" width="40" height="40"/>
+  <img src="cdn.jsdelivr.net" alt="Git" width="40" height="40"/>
+  <img src="cdn.jsdelivr.net" alt="VS Code" width="40" height="40"/>
+</p>
 
-## 💼 Experience
-* **Data Scientist** @ Avalant Co. Ltd. *(2023 - Present)*
-* **Machine Learning Engineer** @ Looloo Technology *(2021 - 2023)*
+---
 
-## 🏆 Achievements
-* **Winner** - Health Data Science Hackathon by BDMS (2021) - 10,000 THB Prize
-* **12th Place** - Cyber Security Challenge by KPMG (2018)
+## 🌱 Currently Exploring
 
-## 📫 Connect
-📧 t.pawarit@lckyn.com | 🌐 [LinkedIn](https://linkedin.lckyn.com) | 📄 [Resume](https://resume.lckyn.com)
+ผมกำลังสนใจและศึกษาเรื่องเหล่านี้เพิ่มเติมครับ:
+*   **LLMs & RAG Systems**
+*   **MLOps Best Practices**
+*   **Real-time ML Pipelines**
+
+---
+
+## 🎓 Education
+
+*   **B.Eng. Computer Engineering** - King Mongkut's University of Technology North Bangkok (KMUTNB), Thailand
+
+---
+
+## 💼 Work Experience
+
+*   **Data Scientist** @ Avalant Co. Ltd. *(2023 - Present)*
+*   **Machine Learning Engineer** @ Looloo Technology *(2021 - 2023)*
+
+---
+
+## 🏆 Achievements & Awards
+
+*   **Winner** - Health Data Science Hackathon by BDMS (2021)
+*   **12th Place** - Cyber Security Challenge by KPMG (2018)
+
+---
+
+## 📫 Connect with Me
+
+📧 t.pawarit@lckyn.com | 🌐 [LinkedIn Profile](https://linkedin.lckyn.com) | 📄 [My Resume](https://resume.lckyn.com)
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=LCKYN&amp;theme=dracula&amp;hide_border=false" alt="">
+<p align="center">
+  <img src="nirzak-streak-stats.vercel.app" alt="GitHub Streak" />
+</p>
