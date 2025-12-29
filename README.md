@@ -1,18 +1,25 @@
 # 💫 About Me
 
-## 👨‍💻 About Me
-
 I am a **Data Scientist** and **Machine Learning Engineer** with over 4 years of experience in building end-to-end AI solutions. My expertise lies in transforming raw data into actionable insights and deploying scalable ML models.
 
 - 🎯 **Current Focus:** Developing LLM-based applications and RAG systems to enhance data accessibility.
 - 🚀 **Specialization:** Machine Learning, Data Engineering, and MLOps.
 - 💡 **Goal:** To bridge the gap between complex AI research and real-world business value.
 
-## 🌐 Socials
+<p align="center">
+  <a href="https://linkedin.com/in/pawarit-thareechan-60b110151">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:t.pawarit@lckyn.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawarit-thareechan-60b110151) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:t.pawarit@lckyn.com)
+---
 
 # 💻 Tech Stack
+
+<div align="center">
 
 ### 🔤 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -58,6 +65,18 @@ I am a **Data Scientist** and **Machine Learning Engineer** with over 4 years of
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+</div>
+
+---
+
+# 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[LCKYN-KnowledgeBase](https://github.com/LCKYN/LCKYN-KnowledgeBase)** | A personal knowledge base and documentation repository. | ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) |
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -79,4 +98,6 @@ I am a **Data Scientist** and **Machine Learning Engineer** with over 4 years of
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LCKYN&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=LCKYN&icon=0&color=0" alt="Visitor Count" />
+</p>
