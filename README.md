@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/LCKYN">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Data+Scientist+%7C+ML+Engineer;Building+End-to-End+AI+Solutions;LLM+%26+RAG+Systems+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
 # 💫 About Me
 
 I am a **Data Scientist** and **Machine Learning Engineer** with over 4 years of experience in building end-to-end AI solutions. My expertise lies in transforming raw data into actionable insights and deploying scalable ML models.
@@ -5,13 +11,23 @@ I am a **Data Scientist** and **Machine Learning Engineer** with over 4 years of
 - 🎯 **Current Focus:** Developing LLM-based applications and RAG systems to enhance data accessibility.
 - 🚀 **Specialization:** Machine Learning, Data Engineering, and MLOps.
 - 💡 **Goal:** To bridge the gap between complex AI research and real-world business value.
+- 🔭 **Currently Working On:** Building production-ready RAG pipelines and multi-agent LLM systems.
 
 <p align="center">
   <a href="https://linkedin.com/in/pawarit-thareechan-60b110151">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:t.pawarit@lckyn.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/LCKYN">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://lckyn.com">
+    <img src="https://img.shields.io/badge/LCKYN.COM-%23BD93F9.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
@@ -35,6 +51,12 @@ I am a **Data Scientist** and **Machine Learning Engineer** with over 4 years of
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![spaCy](https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white)
+
+### 🧠 LLM & AI Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### 📊 Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -63,9 +85,12 @@ I am a **Data Scientist** and **Machine Learning Engineer** with over 4 years of
 ### 🛠️ DevOps & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/docker%20compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -100,6 +125,5 @@ I am a **Data Scientist** and **Machine Learning Engineer** with over 4 years of
 </p>
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=LCKYN&icon=0&color=0" alt="Visitor Count" />
+
 </p>
