@@ -101,6 +101,8 @@ I am a **Data Scientist** and **Machine Learning Engineer** with over 4 years of
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[LCKYN-KnowledgeBase](https://github.com/LCKYN/LCKYN-KnowledgeBase)** | A personal knowledge base and documentation repository. | ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) |
+| **[perf-api-framework](https://github.com/LCKYN/perf-api-framework)** | A benchmarking framework for comparing API framework performance using Docker Compose. | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Compose-0db7ed?style=flat&logo=docker&logoColor=white) |
+
 
 ---
 
