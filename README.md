@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://github.com/LCKYN">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Data+Scientist+%7C+ML+Engineer;Building+End-to-End+AI+Solutions;LLM+%26+RAG+Systems+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=Data+Scientist+%7C+ML+Engineer;Building+End-to-End+AI+Solutions;LLM+%26+RAG+Systems+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
-
 # 💫 About Me
 
 I am a **Data Scientist** and **Machine Learning Engineer** with over 4 years of experience in building end-to-end AI solutions. My expertise lies in transforming raw data into actionable insights and deploying scalable ML models.
