@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/LCKYN">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=Data+Scientist+%7C+ML+Engineer;Building+End-to-End+AI+Solutions;LLM+%26+RAG+Systems+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=Data+Scientist+%7C+ML+Engineer;Building+End-to-End+AI+Solutions;LLM+%26+RAG+Systems+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
+
 # 💫 About Me
 
 I am a **Data Scientist** and **Machine Learning Engineer** with over 4 years of experience in building end-to-end AI solutions. My expertise lies in transforming raw data into actionable insights and deploying scalable ML models.
@@ -48,8 +49,8 @@ I am a **Data Scientist** and **Machine Learning Engineer** with over 4 years of
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
 ![spaCy](https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white)
 
 ### 🧠 LLM & AI Tools
@@ -117,14 +118,10 @@ I am a **Data Scientist** and **Machine Learning Engineer** with over 4 years of
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LCKYN&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=LCKYN&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LCKYN&theme=dracula" alt="Top Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LCKYN&theme=dracula" alt="Top Languages by Commit" />
-</p>
-
----
-
 </p>
